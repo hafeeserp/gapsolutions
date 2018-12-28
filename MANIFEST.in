@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gap_solutions *.css
+recursive-include gap_solutions *.csv
+recursive-include gap_solutions *.html
+recursive-include gap_solutions *.ico
+recursive-include gap_solutions *.js
+recursive-include gap_solutions *.json
+recursive-include gap_solutions *.md
+recursive-include gap_solutions *.png
+recursive-include gap_solutions *.py
+recursive-include gap_solutions *.svg
+recursive-include gap_solutions *.txt
+recursive-exclude gap_solutions *.pyc
