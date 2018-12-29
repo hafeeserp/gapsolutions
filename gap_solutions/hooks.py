@@ -31,7 +31,7 @@ app_license = "MIT"
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 doctype_js = {"Salary Slip" : "public/js/salary_slip.js"}
-fixtures = [{"dt": "Custom Field", "filters":[["name", "in", ["Salary Slip-arrears_calculation","Salary Slip-increment_percentage","Salary Slip-pending_months_for_increment","Salary Slip-column_break_39","Salary Slip-increment_amount","Salary Slip-total_arrears","Department-increment_percentage"]]]}]
+fixtures = [{"dt": "Custom Field", "filters":[["name", "in", ["Salary Slip-arrears_calculation","Salary Slip-increment_percentage","Salary Slip-pending_months_for_increment","Salary Slip-column_break_39","Salary Slip-increment_amount","Salary Slip-total_arrears","Department-increment_percentage",'"Salary Slip-from_date','Salary Slip-arrear_days','Salary Slip-net_pay_with_arrears']]]}]
 
 # Home Pages
 # ----------
